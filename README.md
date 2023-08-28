@@ -6,7 +6,6 @@
 **Сегмент** — это атомарная перевозка, которая задана двумя атрибутами: дата и время вылета и дата и время прилёта. <br>
 <br>
 **Правила** — это условия или параметры, исключающие либо ограничевающие выдачу перелетов по запросу. <br> 
-<br>
 ## Технологии
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br>
 Для модульного тестирования кода используется JUnit 5. <br> 
